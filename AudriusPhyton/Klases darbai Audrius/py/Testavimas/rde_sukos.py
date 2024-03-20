@@ -16,3 +16,4 @@ def istraukti_produktus(url):
         })
     return produktai
 print(istraukti_produktus("https://www.rde.lt/categories/lt/277/sort/5/filter/0_0_0_0/page/1/Plauk%C5%B3-formavimo-%C5%A1ukos.html"))
+#ddddd
